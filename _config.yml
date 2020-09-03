@@ -39,8 +39,8 @@ email: kaique.engcomp@gmail.com
 
 authors:
     artiannaswamy:
-        name: Arti Annaswamy
-        bio: Data analytics, process improvement, project management, coffee drinking
+        name: Kaíque Machado
+        bio: Um estudante de Engenharia da Computação sempre procurando por conhecimento.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: aannasw
@@ -94,6 +94,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: http://artiannaswamy.com
+    base_url: https://kaiquered.github.io
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
