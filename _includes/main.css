@@ -507,13 +507,13 @@ pre {
 }
 .home,
 .blog,
-.projects,
+.projetos,
 .consulting /* arti-changes */ {
   margin-top: 125px;
 }
 .home > .list,
 .blog > .list,
-.projects > .list {
+.projetos > .list {
   border-top: 1px solid #ededed;
   margin-top: 30px;
   padding-top: 40px;
@@ -521,7 +521,7 @@ pre {
 }
 .home > .list:before,
 .blog > .list:before,
-.projects > .list:before {
+.projetos > .list:before {
   display: block;
   content: " ";
   width: 7px;
@@ -537,14 +537,14 @@ pre {
 }
 .home > .list > .item,
 .blog > .list > .item,
-.projects > .list > .item {
+.projetos > .list > .item {
   display: block;
   width: 95%;
   margin: 0 auto;
 }
 .home > .list > .item > .url,
 .blog > .list > .item > .url,
-.projects > .list > .item > .url {
+.projetos > .list > .item > .url {
   width: 100%;
   display: block;
   padding: 20px 0;
@@ -552,7 +552,7 @@ pre {
 }
 .home > .list > .item > .url > .title,
 .blog > .list > .item > .url > .title,
-.projects > .list > .item > .url > .title {
+.projetos > .list > .item > .url > .title {
   margin: 0;
   width: 75%;
   font-weight: 500;
@@ -561,12 +561,12 @@ pre {
 }
 .home > .list > .item:hover > .url > .title,
 .blog > .list > .item:hover > .url > .title,
-.projects > .list > .item:hover > .url > .title {
+.projetos > .list > .item:hover > .url > .title {
   color: #4b0082;
 }
 .home > .list aside,
 .blog > .list aside,
-.projects > .list aside {
+.projetos > .list aside {
   position: relative;
   top: 2px;
   margin: 0;
@@ -580,13 +580,13 @@ pre {
 }
 .home > .list .item:hover .url aside,
 .blog > .list .item:hover .url aside,
-.projects > .list .item:hover .url aside {
+.projetos > .list .item:hover .url aside {
   color: #666;
 }
-.projects > .list > .item > .url > .title {
+.projetos > .list > .item > .url > .title {
   display: inline;
 }
-.projects > .list > .item > .url > .emoji {
+.projetos > .list > .item > .url > .emoji {
   display: inline;
   position: relative;
   top: -4px;
@@ -599,7 +599,7 @@ pre {
   text-align: center;
   margin-bottom: 6rem;
 }
-.about img {
+.sobre img {
   width: 30%;
   height: 30%; /* arti-changes */
   margin: 0 auto;
