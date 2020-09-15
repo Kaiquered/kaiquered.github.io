@@ -26,10 +26,10 @@ disqus: kaiquemachado
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: 
+twitter: twitter
 # google: mygoogle
 instagram: integra.eng
-# pinterest: annasw
+# pinterest: 
 linkedin: kaiquegm
 youtube: myyoutube
 # spotify: myspotify
@@ -43,7 +43,7 @@ authors:
         bio: Um estudante de Engenharia da Computação sempre procurando por conhecimento.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: aannasw
+        twitter: twitter
 
 
 # do you want a larger site? change the option below
