@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: https://kaiquered.github.io
+url: https://kaiquecodes.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -28,12 +28,12 @@ disqus: kaiquemachado
 # facebook: myfacebook
 twitter: kiqcomp
 # google: mygoogle
-instagram: kiqcomp
+instagram: kaiquecodes
 # pinterest: 
 linkedin: kaiquegm
 youtube: myyoutube
 # spotify: myspotify
-github: Kaiquered
+github: kaiquecodes
 medium: kiqcomp
 email: kaique.engcomp@gmail.com
 
